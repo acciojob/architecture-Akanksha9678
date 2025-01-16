@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body{
+	width:1100px;
+	background:silver;
+}
+.a{
+	width:200px;
+	text-align:center;
+}
+.b{
+	width:600px;
+	text-align:center;
+	padding:10px;
+}
+table,tr,td{
+	border:1px solid black;
+	border-collapse:collapse;
+	
+}
